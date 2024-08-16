@@ -8,7 +8,7 @@ public class Ex7 {
 	public static void main(String[] args) {
 
 		Scanner scanner = new Scanner(System.in);
-	    System.out.println("Digite o valor de A: ");
+	   	System.out.println("Digite o valor de A: ");
 		int a = scanner.nextInt();
 		System.out.println("O valor de A é: " + a);
 		System.out.println("Digite o valor de B: ");
