@@ -10,10 +10,9 @@ public class Ex8
 		int x = scanner.nextInt();
 		if(x % 2 == 0) {
 		    System.out.printf("%d é par.", x);
-		}
-	    else {
+		} else {
 	        System.out.printf("%d é impar.", x);
-	    }
+	    	}
 		scanner.close();
 	}
 }
