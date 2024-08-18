@@ -1,4 +1,4 @@
-/**Escreva uma classe que verifica se um dado número inteiro é par ou ímpar.*/
+/*Escreva uma classe que verifica se um dado número inteiro é par ou ímpar.*/
 
 import java.util.Scanner;
 
