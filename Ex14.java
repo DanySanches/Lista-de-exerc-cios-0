@@ -1,4 +1,4 @@
-/**Faça um programa que utilize a estrutura while para ler 50 números e
+/*Faça um programa que utilize a estrutura while para ler 50 números e
  calcule e exiba a média aritmética deles.(Pesquise sobre como realizar entrada de dados)*/
 
 import java.util.Scanner;
