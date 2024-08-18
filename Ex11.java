@@ -1,4 +1,4 @@
-/**11. Utilize a estrutura if para fazer um programa que retorne o nome de um
+/*11. Utilize a estrutura if para fazer um programa que retorne o nome de um
 produto a partir do código do mesmo. Considere os seguintes códigos:
 
 001 ? Parafuso;
