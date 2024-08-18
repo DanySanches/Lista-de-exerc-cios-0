@@ -1,4 +1,4 @@
-/*Refaça o programa anterior utilizando a estrutura do while.)*/
+/*Refaça o programa anterior utilizando a estrutura do while.*/
 
 import java.util.Scanner;
 
