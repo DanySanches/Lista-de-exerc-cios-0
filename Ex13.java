@@ -1,4 +1,4 @@
-/** Escreva uma classe que imprima todas as possibilidades de que no lançamento
+/*Escreva uma classe que imprima todas as possibilidades de que no lançamento
 de dois dados tenhamos o valor 7 como resultado da soma dos valores de cada dado.*/
 
 public class Ex13
