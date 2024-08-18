@@ -1,4 +1,4 @@
-/**Encontre o quadrado dos números de 0 até 10. Utilize o controle de fluxo for.*/
+/*Encontre o quadrado dos números de 0 até 10. Utilize o controle de fluxo for.*/
 public class Ex9{
 	public static void main(String[] args) {
 	      
